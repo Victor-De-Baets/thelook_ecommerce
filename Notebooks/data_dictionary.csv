@@ -1,0 +1,21 @@
+Nom de la colonne,Type,Définition,Exemple
+order_id,int64,inconnue,inconnue
+order_item_id,int64,inconnue,inconnue
+product_id,int64,inconnue,inconnue
+item_created_at,object,inconnue,inconnue
+item_status,object,inconnue,inconnue
+sale_price,float64,inconnue,inconnue
+cost,float64,inconnue,inconnue
+category,object,inconnue,inconnue
+department,object,inconnue,inconnue
+brand,object,inconnue,inconnue
+product_name,object,inconnue,inconnue
+order_status,object,inconnue,inconnue
+order_created_at,object,inconnue,inconnue
+shipped_at,object,inconnue,inconnue
+delivered_at,object,inconnue,inconnue
+user_id,int64,inconnue,inconnue
+gender,object,inconnue,inconnue
+country,object,inconnue,inconnue
+state,object,inconnue,inconnue
+city,object,inconnue,inconnue
